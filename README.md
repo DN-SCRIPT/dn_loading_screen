@@ -13,9 +13,9 @@ DN DEVELOPMENT DISCORD - https://discord.gg/XKWSQRfUcR
 # Installation
 ---------------
 Add this in your `server.cfg`:
-ensure dn_loadingscreen
-```
 
+```
+```ensure dn_loadingscreen```
 ```
 start your server
 ```
